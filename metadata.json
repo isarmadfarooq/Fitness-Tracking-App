@@ -1,0 +1,6 @@
+{
+  "name": "Fitness Tracker",
+  "description": "Log workouts, track daily steps, monitor water hydration, and log weight progress dynamically with a gorgeous dark athletic dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
